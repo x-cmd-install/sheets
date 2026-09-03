@@ -1,17 +1,19 @@
 about:
-  description: Terminal based spreadsheet tool
+  description:
+  |
+    Terminal based spreadsheet tool
   license: MIT
   homepage: 
   head: 8879249
   archived: false
   latestVersion: v0.3.0
-  collectedAt: 2026-09-03T05:12:30Z
+  collectedAt: 2026-09-03T22:37:10Z
 timeline:
   created: 2026-04-01
   lastCommit: 2026-07-16
   lastRelease: 2026-07-18
 popularity:
-  star: 2302
+  star: 2301
   watcher: 6
   fork: 61
   release: 3
@@ -22,7 +24,7 @@ language:
   Go: 236867
   Nix: 1247
   Shell: 10
-totalLine: 238124
+totalBytes: 238124
 recent:
   last30d:
     since: 2026-08-04
