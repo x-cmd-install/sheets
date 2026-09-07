@@ -5,13 +5,13 @@ about:
   head: 8879249
   archived: false
   latestVersion: "v0.3.0"
-  collectedAt: 2026-09-07T06:09:19Z
+  collectedAt: 2026-09-07T18:30:01Z
 timeline:
   created: 2026-04-01
   lastCommit: 2026-07-16
   lastRelease: 2026-07-18
 popularity:
-  star: 2302
+  star: 2303
   watcher: 6
   fork: 63
   release: 3
@@ -81,7 +81,7 @@ total:
   commit: 45
 ---
 path: /home/runner/.x-repo/github.com/maaslalani/sheets
-collectedAt: 2026-09-07T06:09:19Z
+collectedAt: 2026-09-07T18:30:02Z
 loc:
   Go:
     code: 8033
@@ -107,7 +107,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:09:20+00:00
+  collectedAt: 2026-09-07T18:30:02+00:00
   platform:
     darwin/arm64:
       name:  sheets_Darwin_arm64.tar.gz
