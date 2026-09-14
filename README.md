@@ -45,12 +45,12 @@ Total: **8,083** lines of code across **25** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-07-15 | 1 | 1 | 1 | 0 | 9 | 0 |
-| 90d | 2026-06-15 | 1 | 1 | 1 | 0 | 9 | 2 |
-| last180d | 2026-03-17 | 3 | 11 | 8 | 16 | 26 | 42 |
-| 360d | 2025-09-18 | 3 | 11 | 8 | 16 | 26 | 42 |
-| last720d | 2024-09-23 | 3 | 11 | 8 | 16 | 26 | 45 |
+| 30d | 2026-08-15 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last60d | 2026-07-16 | 1 | 0 | 1 | 0 | 9 | 0 |
+| 90d | 2026-06-16 | 1 | 1 | 1 | 0 | 9 | 2 |
+| last180d | 2026-03-18 | 3 | 11 | 8 | 16 | 26 | 42 |
+| 360d | 2025-09-19 | 3 | 11 | 8 | 16 | 26 | 42 |
+| last720d | 2024-09-24 | 3 | 11 | 8 | 16 | 26 | 45 |
 
 ## Release assets
 
@@ -66,14 +66,6 @@ Total: **8,083** lines of code across **25** files in the top 5 languages.
 | [sheets_Windows_i386.zip](https://github.com/maaslalani/sheets/releases/download/v0.3.0/sheets_Windows_i386.zip) | 1.5 MiB | `native/win/x64` |
 | [sheets_Windows_x86_64.zip](https://github.com/maaslalani/sheets/releases/download/v0.3.0/sheets_Windows_x86_64.zip) | 1.5 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **6** distros on [repology.org](https://repology.org/project/sheets). **4** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.3.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for sheets lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `sheets` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -83,4 +75,4 @@ Install metadata for sheets lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:24:20Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:35:20Z._
