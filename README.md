@@ -45,12 +45,12 @@ Total: **8,083** lines of code across **25** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-07-31 | 0 | 0 | 1 | 0 | 1 | 0 |
-| 90d | 2026-07-01 | 1 | 1 | 1 | 0 | 9 | 2 |
-| last180d | 2026-04-02 | 3 | 9 | 8 | 13 | 24 | 9 |
-| 360d | 2025-10-04 | 3 | 11 | 8 | 16 | 26 | 42 |
-| last720d | 2024-10-09 | 3 | 11 | 8 | 16 | 26 | 45 |
+| 30d | 2026-08-31 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last60d | 2026-08-01 | 0 | 0 | 1 | 0 | 1 | 0 |
+| 90d | 2026-07-02 | 1 | 1 | 1 | 0 | 9 | 2 |
+| last180d | 2026-04-03 | 2 | 9 | 7 | 13 | 23 | 9 |
+| 360d | 2025-10-05 | 3 | 11 | 8 | 16 | 26 | 42 |
+| last720d | 2024-10-10 | 3 | 11 | 8 | 16 | 26 | 45 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for sheets lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T07:12:15Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T06:58:45Z._
