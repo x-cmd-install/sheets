@@ -1,0 +1,62 @@
+- repo: aur
+  srcname: sheets-bin
+  binname: sheets-bin
+  visiblename: sheets-bin
+  version: 0.3.0
+  origversion: 0.3.0-3
+  status: newest
+  summary: Terminal based spreadsheet tool (binary release)
+  maintainers:
+    - druxorey@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: sheets-git
+  binname: sheets-git
+  visiblename: sheets-git
+  version: r38.7beaf1a
+  origversion: r38.7beaf1a-2
+  status: rolling
+  summary: Terminal based spreadsheet tool (git release)
+  maintainers:
+    - druxorey@aur
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: sheets
+  visiblename: sheets
+  version: 0.3.0
+  origversion: null
+  status: newest
+  summary: Terminal based spreadsheet tool
+- repo: homebrew
+  srcname: sheets
+  visiblename: sheets
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Terminal based spreadsheet tool
+- repo: macports
+  srcname: office/sheets
+  binname: sheets
+  visiblename: sheets
+  version: 0.3.0
+  origversion: null
+  status: newest
+  summary: Terminal based spreadsheet
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - MIT
+  categories:
+    - office
+- repo: tur
+  srcname: sheets
+  binname: sheets
+  visiblename: sheets
+  version: 0.3.0
+  origversion: null
+  status: newest
+  summary: Terminal based spreadsheet tool
+  maintainers:
+    - gouranga.das.khulna@gmail.com
