@@ -35,7 +35,7 @@ Total: **8,083** lines of code across **25** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,332 · **Forks**: 65 · **Open issues**: 43 · **Contributors**: 11
+- **Stars**: 2,331 · **Forks**: 65 · **Open issues**: 43 · **Contributors**: 11
 
 ## Totals (cumulative)
 
@@ -45,12 +45,12 @@ Total: **8,083** lines of code across **25** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-09-28 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-08-29 | 0 | 0 | 1 | 0 | 2 | 0 |
-| last180d | 2026-05-31 | 1 | 1 | 1 | 0 | 10 | 2 |
-| 360d | 2025-12-02 | 3 | 11 | 8 | 16 | 27 | 42 |
-| last720d | 2024-12-07 | 3 | 11 | 8 | 16 | 27 | 45 |
+| 30d | 2026-10-29 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-09-29 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-08-30 | 0 | 0 | 1 | 0 | 2 | 0 |
+| last180d | 2026-06-01 | 1 | 1 | 1 | 0 | 10 | 2 |
+| 360d | 2025-12-03 | 3 | 11 | 8 | 16 | 27 | 42 |
+| last720d | 2024-12-08 | 3 | 11 | 8 | 16 | 27 | 45 |
 
 ## Release assets
 
@@ -66,6 +66,14 @@ Total: **8,083** lines of code across **25** files in the top 5 languages.
 | [sheets_Windows_i386.zip](https://github.com/maaslalani/sheets/releases/download/v0.3.0/sheets_Windows_i386.zip) | 1.5 MiB | `native/win/x64` |
 | [sheets_Windows_x86_64.zip](https://github.com/maaslalani/sheets/releases/download/v0.3.0/sheets_Windows_x86_64.zip) | 1.5 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **6** distros on [repology.org](https://repology.org/project/sheets). **4** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.3.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for sheets lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `sheets` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -75,4 +83,4 @@ Install metadata for sheets lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T10:38:04Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T09:34:14Z._
